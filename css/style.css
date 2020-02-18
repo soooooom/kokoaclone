@@ -2,4 +2,11 @@
 @import "header.css";
 @import "global.css";
 @import "search-bar.css";
+@import "navigation.css";
+@import "friend.css";
+@import "chats.css";
+@import "find.css";
+@import "more.css";
+@import "profile.css";
+@import "chat.css";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
